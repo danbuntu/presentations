@@ -1,8 +1,18 @@
 
-h2, p, ul, li {
-  text-align: left;
+body {
+  background-image: url("../../images/backgrounds/Elegant_Background-9-dim.jpg");
 }
 
+
+h2, p, ul, li {
+  text-align: left;
+  text-shadow: 2px 2px #000000;
+}
+
+
+h2 {
+    text-shadow: 2px 2px #000000 !important;
+}
 
 .reveal ul {
   display: inline;
